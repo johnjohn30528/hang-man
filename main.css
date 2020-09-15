@@ -59,7 +59,7 @@ h1 {
   position: absolute;
   bottom: 10px;
   left: 50%;
-  transform: translate(-50%);
+  transform: translateX(-50%);
 }
 
 .letter {
@@ -87,7 +87,7 @@ h1 {
 }
 
 .popup {
-  background-color: #2980b9;
+  background: #2980b9;
   border-radius: 5px;
   box-shadow: 0 15px 10px 3px rgba(0, 0, 0, 0.1);
   padding: 20px;
